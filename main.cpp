@@ -43,7 +43,7 @@ int main() {
     while (true) {
         int x, y;
         cin >> x >> y;
-
+        int currr;
         int curx = 0, cury = 0;
         int t = 1;
         for (int times = 1; curx <= x && cury <= y; times++) {
