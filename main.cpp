@@ -51,7 +51,7 @@ int main() {
                 int square = (times + 1) / 2;
                 curx += square;
             } else {
-                int square = (times) / 2;
+                int square = (times) /2;
                 cury += square;
             }
             t = times;
