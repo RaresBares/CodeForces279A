@@ -57,6 +57,7 @@ int main() {
             t = times;
         }
         int corner = t - 1;
+        cout << corner;
         if (isincorner(x,y)) {
             corner -= 1;
         }else{
